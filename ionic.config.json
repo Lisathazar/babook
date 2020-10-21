@@ -1,0 +1,7 @@
+{
+  "name": "babook",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
