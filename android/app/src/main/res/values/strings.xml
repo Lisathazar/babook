@@ -4,4 +4,5 @@
     <string name="title_activity_main">babook</string>
     <string name="package_name">com.babook.app</string>
     <string name="custom_url_scheme">com.babook.app</string>
+    <string name="server_client_id">htG_od8MtMjOEKpnnxR-0zYM</string>
 </resources>
